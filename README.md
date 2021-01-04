@@ -6,7 +6,7 @@
 The Certificate was issued by ```Foxmula``` & ``` MAEP``` on behalf of successfully passing the NodeJS Certification Examination which i had given in the month of October 2020.
 
 
-# By gaining this badge now i have Validated Skills in the following areas:
+# By gaining this certificate now i have Validated Skills in the following areas:
 
 - Basic Concepts of NodeJS Building Backend of web Applications
 
