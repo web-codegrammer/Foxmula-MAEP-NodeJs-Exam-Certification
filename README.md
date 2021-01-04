@@ -2,7 +2,9 @@
 
 > Foxmula & MAEP NodeJS Examination Certificate
 
+
 The Certificate was issued by ```Foxmula``` & ``` MAEP``` on behalf of successfully passing the NodeJS Certification Examination which i had given in the month of October 2020.
+
 
 # By gaining this badge now i have Validated Skills in the following areas:
 
@@ -27,6 +29,6 @@ The Certificate was issued by ```Foxmula``` & ``` MAEP``` on behalf of successfu
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382-/blob/main/LICENSE)
+[MIT](https://github.com/web-codegrammer/Foxmula-NodeJs-Exam-Certification/tree/main)
 
-Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2021
