@@ -1,8 +1,8 @@
-# Foxmula-NodeJs-Exam-Certification
+# Foxmula & MAEP NodeJs Exam Certification
 
-> Foxmula NodeJS Examination Certificate
+> Foxmula & MAEP NodeJS Examination Certificate
 
-The Certificate was issued by ```Foxmula``` on behalf of successfully passing the NodeJS Certification Examination which i had given in the month of October 2020.
+The Certificate was issued by ```Foxmula``` & ``` MAEP``` on behalf of successfully passing the NodeJS Certification Examination which i had given in the month of October 2020.
 
 # By gaining this badge now i have Validated Skills in the following areas:
 
@@ -17,7 +17,7 @@ The Certificate was issued by ```Foxmula``` on behalf of successfully passing th
 - Interact with some Awesome Full Stack Projects
 
 
-## You can Directly view my NodeJS Exam Certification Here 👉👉 [Certificate Link](https://y.foxmula.com/verify/o6ITizmzS)
+## You can Directly view my NodeJS & MAEP Exam Certification Here 👉👉 [Certificate Link](https://y.foxmula.com/verify/o6ITizmzS)
 
 
 # My Exam Certification
