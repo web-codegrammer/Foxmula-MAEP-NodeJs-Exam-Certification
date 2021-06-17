@@ -16,7 +16,7 @@ The Certificate was issued by ```Foxmula``` & ``` MAEP``` on behalf of successfu
 
 - Interact with the Document Object Model
 
-- Interact with some Awesome Full Stack Projects
+- Worked on Awesome Full Stack Projects
 
 
 ## You can Directly view my NodeJS & MAEP Exam Certification Here 👉👉 [Certificate Link](https://y.foxmula.com/verify/o6ITizmzS)
